@@ -6,6 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeieunYoo&count_bg=%23DEA6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###  🤗 Experience
+#### [Toss](https://toss.im/) UX Engineer Assistant <sub>(2023. 07 ~ 2024.02)</sub>
 #### [YAPP](https://github.com/YAPP-Github/21st-Web-Team-1-FE) 21기 Web FrontEnd Developer <sub>(2022. 10 ~ 2023.02)</sub>
 #### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub>
 #### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 15기 FE <sub>(2022.03 ~ 2022.08)</sub>
