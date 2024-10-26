@@ -15,7 +15,7 @@
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub>
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 15기 FE <sub>(2022.03 ~ 2022.08)</sub>
 
-### 🤖 Projects
+#### 🤖 Projects
 
 ##### GDSC Hongik 스터디 서비스 [wow-class](https://github.com/GDSC-Hongik/wow-class) <sub>(2024.08 ~ )</sub>
 ##### GDSC Hongik 디자인 시스템 [wow-design-system](https://github.com/GDSC-Hongik/wow-design-system)<sub>(2024.03 ~ )</sub>
