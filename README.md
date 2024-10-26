@@ -13,8 +13,10 @@
 
 ### 🤖 Projects
 
-#### 당신이 찾는 그 밈 [Thismeme](https://github.com/thismeme-team/thismeme-web) - FE <sub>(2022. 11 ~ )</sub>
-#### 현물 정기 구독 큐레이션 서비스 [Founder](https://github.com/pound-er/Founder-client) - FE <sub>(2022. 07 ~ 2022.08)</sub>
+#### GDSC Hongik 스터디 서비스 [wow-class](https://github.com/GDSC-Hongik/wow-class) <sub>(2024.08 ~ )</sub>
+#### GDSC Hongik 디자인 시스템 [wow-design-system](https://github.com/GDSC-Hongik/wow-design-system)<sub>(2024.03 ~ )</sub>
+
+#### 당신이 찾는 그 밈 [this-meme](https://github.com/thismeme-team/thismeme-web) - FE <sub>(2022. 11 ~ 2023.06)</sub>
 
 
 ### 🔧 Github stats 
