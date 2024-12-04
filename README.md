@@ -5,6 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeieunYoo&count_bg=%23DEA6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://www.notion.so/seieunyoo/Front-Web-developer-a251b6634435431e8218606e4f08bc7f"><img src="https://img.shields.io/badge/Resume-eaeaea.svg?style=square&logo=notion&logoColor=black"/></a>
 
 #### 💻 Work
 ##### [Toss](https://toss.im/) UX Engineer Assistant <sub>(2023. 07 ~ 2024.02)</sub>
