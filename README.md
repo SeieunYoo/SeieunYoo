@@ -3,7 +3,7 @@
 
 ### 👩‍💻 🔧 🎧 🎶  🌊 😎
 
-<a href="https://www.notion.so/seieunyoo/Front-Web-developer-a251b6634435431e8218606e4f08bc7f"><img src="https://img.shields.io/badge/Resume-eaeaea.svg?style=square&logo=notion&logoColor=black"/></a>
+<a href="https://seieunyoo.notion.site/Front-Web-developer-a251b6634435431e8218606e4f08bc7f"><img src="https://img.shields.io/badge/Resume-eaeaea.svg?style=square&logo=notion&logoColor=black"/></a>
 
 #### 💻 Work
 ##### [Toss](https://toss.im/) UX Engineer Assistant <sub>(2023. 07 ~ 2024.02)</sub>
