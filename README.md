@@ -3,7 +3,6 @@
 
 ### 👩‍💻 🔧 🎧 🎶  🌊 😎
 
-<a href="https://seieunyoo.notion.site/Front-Web-developer-a251b6634435431e8218606e4f08bc7f"><img src="https://img.shields.io/badge/Resume-eaeaea.svg?style=square&logo=notion&logoColor=black"/></a>
 [![✨](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FSeieunYoo?color=purple&label=✨&size=small)](https://myhits.vercel.app)
 
 #### 💻 Work
