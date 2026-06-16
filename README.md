@@ -6,10 +6,11 @@
 [![✨](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FSeieunYoo?color=purple&label=✨&size=small)](https://myhits.vercel.app)
 
 #### 💻 Work
+##### [당근](https://www.daangn.com/) Frontend Developer Intern <sub>(2025. 08 ~ 2026.05)</sub>
 ##### [Toss](https://toss.im/) UX Engineer Assistant <sub>(2023. 07 ~ 2024.02)</sub>
 
 ####  🤗 Experience
-##### [GDSC Hongik](https://github.com/GDSC-Hongik) 코어 FE 개발팀 <sub>(2024. 03 ~ )</sub>
+##### [GDSC Hongik](https://github.com/GDSC-Hongik) 코어 FE 개발팀 <sub>(2024. 03 ~ 2025.08)</sub>
 ##### [YAPP](https://github.com/YAPP-Github/21st-Web-Team-1-FE) 21기 Web FrontEnd Developer <sub>(2022. 10 ~ 2023.02)</sub>
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub>
 ##### 신촌연합 IT 창업 동아리 [CEOS](https://github.com/SeieunYoo/CEOS-15th-FE-Study) 15기 FE <sub>(2022.03 ~ 2022.08)</sub>
