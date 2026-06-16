@@ -17,8 +17,8 @@
 
 #### 🤖 Projects
 
-##### GDSC Hongik 스터디 서비스 [wow-class](https://github.com/GDSC-Hongik/wow-class) <sub>(2024.08 ~ )</sub>
-##### GDSC Hongik 디자인 시스템 [wow-design-system](https://github.com/GDSC-Hongik/wow-design-system)<sub>(2024.03 ~ )</sub>
+##### GDSC Hongik 스터디 서비스 [wow-class](https://github.com/GDSC-Hongik/wow-class) <sub>(2024.08 ~ 2025.08)</sub>
+##### GDSC Hongik 디자인 시스템 [wow-design-system](https://github.com/GDSC-Hongik/wow-design-system)<sub>(2024.03 ~ 2025.08)</sub>
 
 ##### 당신이 찾는 그 밈 [this-meme](https://github.com/thismeme-team/thismeme-web) - FE <sub>(2022. 11 ~ 2023.06)</sub>
 
