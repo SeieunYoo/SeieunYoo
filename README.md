@@ -21,8 +21,3 @@
 ##### GDSC Hongik 디자인 시스템 [wow-design-system](https://github.com/GDSC-Hongik/wow-design-system)<sub>(2024.03 ~ 2025.08)</sub>
 
 ##### 당신이 찾는 그 밈 [this-meme](https://github.com/thismeme-team/thismeme-web) - FE <sub>(2022. 11 ~ 2023.06)</sub>
-
-
-#### 🔧 Github stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeieunYoo&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeieunYoo&layout=compact&theme=buefy)
