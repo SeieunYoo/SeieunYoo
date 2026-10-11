@@ -5,6 +5,8 @@
 
 [![✨](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FSeieunYoo?color=purple&label=✨&size=small)](https://myhits.vercel.app)
 
+[경력기술서](https://github.com/user-attachments/files/33304554/_.%2B.pdf)
+
 #### 💻 Work
 ##### [당근](https://www.daangn.com/) Frontend Developer Intern <sub>(2025. 08 ~ 2026.05)</sub>
 ##### [Toss](https://toss.im/) UX Engineer Assistant <sub>(2023. 07 ~ 2024.02)</sub>
